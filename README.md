@@ -3,7 +3,7 @@
 ### Sobre mim
 - 👨‍🎓 Sou Graduando de Engenharia da Computação na Universidade Estudal do Maranhão (UEMA)
 - 📚 Tenho interesse em diversas áreas, envolvendo principalmente front-end e back-end
-- 👾 Estou aprendendo liguagens como Python, Java, React e dentre outras
+- 👾 Estou aprendendo liguagens como Kotlin, Python, Java, React e dentre outras
 
 ## Tecnologias que faço uso 💻
 <div style:"display: inline_block">
