@@ -1,4 +1,4 @@
-# Victor Hugo
+# Victor Hugo 👨‍💻
 
 ### About me
 - 👨‍🎓 Computer Engineering student at State University of Maranhão
