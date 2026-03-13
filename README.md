@@ -2,7 +2,7 @@
 
 ### About me
 - 👨‍🎓 Computer Engineering student at State University of Maranhão
-- 📚 Full Stack Developer
+- 📚 Back-End Developer
 - 👾 Learning about React Native, Spring Boot and others
 ##
 ### Languages 💻 
